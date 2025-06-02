@@ -3,6 +3,8 @@
 
 A machine learning project that forecasts bike rental demand based on historical usage patterns, weather data, and time-related features. This project is inspired by a real-world Kaggle competition and aims to provide insights into user behavior in bike-sharing systems.
 
+📊 The final model achieved an **RMSLE score of 1.29136** on the test set.
+
 ![bike-sharing](https://img.shields.io/badge/Python-3.10-blue?style=flat-square) ![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-yellow?style=flat-square) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
 ---
